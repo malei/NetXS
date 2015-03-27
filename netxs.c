@@ -7,5 +7,6 @@ int main(int argc, char *argv[])
 
 	fprintf(stdout, "[YES]!\n");
 	fprintf(stdout, "[fixed Branch]!\n");
+	fprintf(stdout, "[fixed Branch]!\n");
     return 0;
 }
