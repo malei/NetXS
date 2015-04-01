@@ -8,5 +8,7 @@ int main(int argc, char *argv[])
 	fprintf(stdout, "[YES]!\n");
 	fprintf(stdout, "[fixed Branch]!\n");
 	fprintf(stdout, "[fixed Branch]!\n");
+
+	fprintf(stdout, "[test for Travios!]\n");
     return 0;
 }
